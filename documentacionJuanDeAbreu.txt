@@ -1,0 +1,4 @@
+Veterinaria UwU Juan De Abreu
+Se realizo un prototipo de programa para una veterinaria donde la primera f(x) recibe dos valores (el nombre de la mascota y su número de registro)
+iniciando la otra función para saber si está registrada o no, si está registrada sigue esa misma, si no lo esta le devolverá a la anterior para arrojarle su 
+respectivo numero de registro lo cual el usuario debe de consevar para confirmar que es él el que va a retirar o internar su mascota
